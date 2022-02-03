@@ -1,0 +1,20 @@
+<map id="GRLC3API.GrlC3Controller.GetConnectionStatus" name="GRLC3API.GrlC3Controller.GetConnectionStatus">
+<area shape="rect" id="node1" title="To get Tester Connection Status" alt="" coords="277,528,459,569"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a933e9d05d362204f857d5dc62130cba1" title=" " alt="" coords="27,5,208,47"/>
+<area shape="rect" id="node3" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a01c8b79b32ea148a8811868a805faf81" title=" " alt="" coords="19,71,215,112"/>
+<area shape="rect" id="node4" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a7bc6a88bd548fd4b10b74999b52eed9b" title=" " alt="" coords="14,136,221,177"/>
+<area shape="rect" id="node5" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a8bbe15fd80f870938e0e75d06eacb427" title=" " alt="" coords="5,201,229,243"/>
+<area shape="rect" id="node6" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a0cc4cf2dea4c94cb8f12f8d1a499d909" title=" " alt="" coords="27,267,208,308"/>
+<area shape="rect" id="node7" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#ab212c5db62dd43e4d9c316d7c5ec9a80" title=" " alt="" coords="16,332,219,373"/>
+<area shape="rect" id="node8" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a20a916e1fed5ad181fb439c404c1043b" title="to run packets" alt="" coords="27,397,208,439"/>
+<area shape="rect" id="node9" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a6de2dd3fa562ec97d93a5d5e483919d2" title=" " alt="" coords="27,463,208,504"/>
+<area shape="rect" id="node10" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a22832f62499caf1d8c964790b85195c0" title="Select the coil which is connected GRL&#45;WP&#45;QI&#45;C3 Controller" alt="" coords="27,528,208,569"/>
+<area shape="rect" id="node11" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a366905909ee092fe0a3bd90d71ad57fd" title="SetDigitalPing to enable the controller to keep only in Digial ping mode. Not to proceed further on t..." alt="" coords="27,593,208,635"/>
+<area shape="rect" id="node12" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a3bc06f82f705231fcd721c2b921d0af2" title="Select the DUT profile which is connected GRL&#45;WP&#45;QI&#45;C3 Controller" alt="" coords="27,659,208,700"/>
+<area shape="rect" id="node13" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a2764e1317628f6957561c46b17899e4c" title="Set Eload values to Controller" alt="" coords="27,724,208,765"/>
+<area shape="rect" id="node14" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#ae1df8d9a0e7fb70b7f95266ec1cd3943" title="To Regulate Rectified Voltage in Power transfer phase" alt="" coords="27,789,208,831"/>
+<area shape="rect" id="node15" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a5fd59c3af5a1c6b5a9dd54565959f3a3" title="Starts the data capture, which includes Qi messages and list of channels configured." alt="" coords="27,855,208,896"/>
+<area shape="rect" id="node16" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#ab8f8fe551cb03c28dc2e842ac8fa5647" title=" " alt="" coords="27,920,208,961"/>
+<area shape="rect" id="node17" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#ae3788a8f9c10bee569508f6f8667fe70" title="Stops the data capture, including any QI messages and voltage values." alt="" coords="27,985,208,1027"/>
+<area shape="rect" id="node18" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a49610799fc20a25745d2c2603ee7eb2b" title=" " alt="" coords="27,1051,208,1092"/>
+</map>

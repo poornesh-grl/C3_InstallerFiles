@@ -1,0 +1,4 @@
+<map id="GRLC3API.GrlC3Controller.GetCompleteQIMessages" name="GRLC3API.GrlC3Controller.GetCompleteQIMessages">
+<area shape="rect" id="node1" title="Get all Qi Protocol messages with bit level informations and C3 Assertion Messages such as Ping Detec..." alt="" coords="5,22,187,63"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Get method of Rest API&#39;s &#160;C# Example:" alt="" coords="235,29,437,56"/>
+</map>
