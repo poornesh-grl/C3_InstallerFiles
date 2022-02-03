@@ -1,0 +1,30 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            38:42:4b:84:f0:11:cc:6c
+    Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=FAB1-U4
+        Validity
+            Not Before: Apr 19 09:07:04 2021 GMT
+            Not After : Apr 20 09:07:04 2021 GMT
+        Subject: CN=000177-Kenobi/2.5.4.92=!\x04\x19\x09\x05\x00TAT/UID=These are not the oids you ...
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:f3:09:40:74:1e:2e:3f:31:85:02:ec:6b:00:7d:
+                    59:fa:09:de:46:af:00:3b:bc:62:53:75:ae:83:ad:
+                    ff:1b:e2:56:e1:26:65:98:bc:b7:32:a0:7f:ec:73:
+                    7a:14:7c:f1:54:f0:9d:80:a1:01:72:2e:39:ca:7a:
+                    7e:c2:6d:fd:e2
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            2.23.148.1.2: critical
+                .......C
+    Signature Algorithm: ecdsa-with-SHA256
+         30:45:02:21:00:fc:68:f1:7f:74:49:a0:5f:29:34:03:a9:de:
+         17:c9:75:68:4f:ad:18:34:9a:0e:86:9c:ef:41:62:85:bc:5b:
+         2f:02:20:7e:7b:6c:6a:91:54:a1:89:19:7b:76:93:f3:13:80:
+         b9:b6:2e:e4:f0:30:c9:ac:d9:40:be:dd:fb:31:46:d0:d0
