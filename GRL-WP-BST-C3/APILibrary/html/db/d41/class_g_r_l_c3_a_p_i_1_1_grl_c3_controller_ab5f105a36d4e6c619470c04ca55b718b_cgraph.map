@@ -1,0 +1,5 @@
+<map id="GRLC3API.GrlC3Controller.StartSignalandPacketCapture" name="GRLC3API.GrlC3Controller.StartSignalandPacketCapture">
+<area shape="rect" id="node1" title="Starts the data capture, which includes Qi messages and list of channels configured." alt="" coords="5,22,199,63"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a590385743fddaa84ee6670564d802cf3" title="To get Tester Connection Status" alt="" coords="247,22,448,63"/>
+<area shape="rect" id="node3" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Rest API&#39;s" alt="" coords="496,29,699,56"/>
+</map>

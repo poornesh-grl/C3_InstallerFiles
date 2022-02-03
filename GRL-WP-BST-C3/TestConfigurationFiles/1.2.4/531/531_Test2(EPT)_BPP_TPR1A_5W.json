@@ -1,0 +1,148 @@
+[
+	{
+		"FileInfo": [
+			{
+				"Version": "1.0.0.2"
+			}
+		],
+		"QiSpecification": [
+			{
+				"Version": "1.2.4"
+			}
+		],
+		"PopupMessage": [
+			{
+				"Message": ""
+			}
+		],
+		"ConfigureSequence": [
+			{
+				"packetStrength": "End Power Transfer (0x02)",
+				"packetPhase": "ID/Config Phase",
+				"id": 0,
+				"msgType": "NONE",
+				"checksum_Value": 0,
+				"repetmsgindex": 0,
+				"eachPacketTypeLength": 0,
+				"isRowSelected": false,
+				"selectedPacketsPayLoadList": [
+					{
+						"fieldName": "End Power Transfer Code",
+						"fieldDisplayString": "End Power Transfer Code (B0-b7:0)",
+						"fieldType": 2,
+						"defaultValue": null,
+						"units": null,
+						"minValue": null,
+						"maxValue": null,
+						"multipliers": null,
+						"comboBoxEntries": [
+							"Unknown(0x00)",
+							"Charge Complete(0x01)",
+							"Internal Fault(0x02)",
+							"Over Temperature(0x03)",
+							"Over Voltage(0x04)",
+							"Over Current(0x05)",
+							"Battery Failure(0x06)",
+							"Reserved(0x07)",
+							"No Response(0x08)",
+							"Negotiation Failure(0x0A)",
+							"Restart Power Transfer(0x0B)"
+						],
+						"fieldEnumName": "11",
+						"elementId": 0,
+						"selectedValue": null,
+						"packetName": "End Power Transfer (0x02)",
+						"fieldLength": 0,
+						"selectedComboBox": "No Response(0x08)",
+						"selectedComboBoxEntryIndex": 8,
+						"isValid": true
+					}
+				],
+				"payLoad": "",
+				"t_Start": 15,
+				"t_Wake": 40,
+				"t_Silent": 9.5,
+				"preambleCount": 11,
+				"packetCount": 0,
+				"corruptCheckSum": false
+			}
+		],
+		"SendInstant": [],
+		"ControllerConfigurations": [
+			{
+				"ModulatorConfiguration": {
+					"coilModulation": "22nF"
+				},
+				"LoadRampConfiguration": {
+					"stepLoad": 10,
+					"stepTime": 1000,
+					"minimumLoad": 50,
+					"maximumLoad": 1000,
+					"testDuration": 600
+				},
+				"SetLoad": {
+					"initialLoad": 32,
+					"load": "32",
+					"loadValues": [
+						"32",
+						"16",
+						"8",
+						"3.5"
+					]
+				},
+				"TPRConfiguration": {
+					"coilType": "TPR_1A",
+					"thresholdVolatge": 1200,
+					"coilVolatge": 4200,
+					"qThershold": 2000,
+					"overVoltageDcLimit": 18000,
+					"overVoltageAcLimit": 18000,
+					"underVoltageLimit": 1000,
+					"overCurrentLimit": 3600,
+					"controlErrorLimit": 128
+				},
+				"DUTType": {
+					"bppSelected": true,
+					"selected_PP_Value": "5"
+				}
+			}
+		],
+		"PhasesSettings": [
+			{
+				"NegotiationPhase": {
+					"forceNegotiationPhase": false,
+					"disableNegotiationPhase": false,
+					"packetRetryCount": "2",
+					"tRetry": "60"
+				},
+				"CalibrationPhase": {
+					"enableCalibrationPhase": true,
+					"calibrationPhaseRetries": "20",
+					"lightLoad": "0",
+					"fullLoad": "0",
+					"configureCeTimer": "100",
+					"configureRpMode1Timer": "500",
+					"configureRpMode4Timer": "2000"
+				},
+				"PowerTxPhase": {
+					"forceReceivedPower": false,
+					"controlErrorInvert": false,
+					"receivedPowerOffset": "0",
+					"replaced_RPMode": [
+						"Mode 0",
+						"Mode 1",
+						"Mode 2",
+						"Mode 3",
+						"Mode 4",
+						"Mode 5",
+						"Mode 6",
+						"Mode 7"
+					],
+					"rP_Position": "0",
+					"selectedRPIndex": "0",
+					"tControl": "25"
+				}
+			}
+		]
+	}
+]

@@ -1,0 +1,5 @@
+<map id="GRLC3API.GrlC3Controller.IgnorePingDetectedandRemoveMessages" name="GRLC3API.GrlC3Controller.IgnorePingDetectedandRemoveMessages">
+<area shape="rect" id="node1" title="Ignore Ping Detected and shutdown messaged from List of QI messages &#160;C# Example:" alt="" coords="5,22,268,63"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a590385743fddaa84ee6670564d802cf3" title="Use this GetControllerConnectionStatus function to check Controller is connected or not &#160;C# Example:" alt="" coords="316,22,517,63"/>
+<area shape="rect" id="node3" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Get method of Rest API&#39;s &#160;C# Example:" alt="" coords="565,29,768,56"/>
+</map>

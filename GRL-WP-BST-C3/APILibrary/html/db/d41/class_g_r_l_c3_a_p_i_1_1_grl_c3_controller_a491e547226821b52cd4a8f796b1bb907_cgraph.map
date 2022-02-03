@@ -1,0 +1,5 @@
+<map id="GRLC3API.GrlC3Controller.StopSignalandPacketCaptureCapture" name="GRLC3API.GrlC3Controller.StopSignalandPacketCaptureCapture">
+<area shape="rect" id="node1" title="Stops the data capture, including any QI messages and voltage values." alt="" coords="5,22,243,63"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Rest API&#39;s" alt="" coords="540,29,743,56"/>
+<area shape="rect" id="node3" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a590385743fddaa84ee6670564d802cf3" title="To get Tester Connection Status" alt="" coords="291,51,492,93"/>
+</map>
