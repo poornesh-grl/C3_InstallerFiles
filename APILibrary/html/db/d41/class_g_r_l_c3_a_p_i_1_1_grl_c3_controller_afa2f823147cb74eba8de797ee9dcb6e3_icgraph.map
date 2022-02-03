@@ -1,4 +1,0 @@
-<map id="GRLC3API.GrlC3Controller.GetAPIstate" name="GRLC3API.GrlC3Controller.GetAPIstate">
-<area shape="rect" id="node1" title="Get the API mode status whether enabled or disabled" alt="" coords="235,5,416,47"/>
-<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#ab2f28bf2502e578fe19d87e3dcfe3b61" title="Set API mode whether to enable or Disable" alt="" coords="5,5,187,47"/>
-</map>

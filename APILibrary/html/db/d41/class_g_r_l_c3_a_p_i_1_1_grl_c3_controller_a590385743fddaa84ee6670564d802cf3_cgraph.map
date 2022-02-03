@@ -1,4 +1,0 @@
-<map id="GRLC3API.GrlC3Controller.GetControllerConnectionStatus" name="GRLC3API.GrlC3Controller.GetControllerConnectionStatus">
-<area shape="rect" id="node1" title="Use this GetControllerConnectionStatus function to check Controller is connected or not &#160;C# Example:" alt="" coords="5,22,207,63"/>
-<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Get method of Rest API&#39;s &#160;C# Example:" alt="" coords="255,29,457,56"/>
-</map>
