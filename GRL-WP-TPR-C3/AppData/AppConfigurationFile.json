@@ -1,0 +1,20 @@
+{
+	"RPOffsetValue": 0.0,
+	"Maximum_Power_Value": 5,
+	"Guaranteed_Power_Value": 5,
+	"Enable_Qf_Valfrom_UI": false,
+	"QF_Value": 20,
+	"RF_Value": 90,
+	"PlotEyeDiagram": false,
+	"MPP_PRECT_Offset": 500,
+	"CoilModulation_128KHz": 1,
+	"CoilModulation_360KHz": 5,
+	"Enable_DMA1": true,
+	"Enable_DMA2": true,
+	"DMA1_Subsample": 979,
+	"DMA2_Subsample": 223,
+	"TimerAfterDMAStart": 60,
+	"TimerAfterDMAStop": 60,
+	"DMA1TimestampDiff": 1012,
+	"DMA2TimestampDiff": 1012
+}

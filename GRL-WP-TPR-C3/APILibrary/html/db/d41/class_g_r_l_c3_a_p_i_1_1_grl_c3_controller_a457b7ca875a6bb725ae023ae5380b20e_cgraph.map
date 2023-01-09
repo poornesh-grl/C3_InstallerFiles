@@ -1,0 +1,5 @@
+<map id="GRLC3API.GrlC3Controller.EnableDebugValue" name="GRLC3API.GrlC3Controller.EnableDebugValue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,22,187,63"/>
+<area shape="rect" id="node2" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a590385743fddaa84ee6670564d802cf3" title="Use this GetControllerConnectionStatus function to check Controller is connected or not &#160;C# Example:" alt="" coords="235,22,436,63"/>
+<area shape="rect" id="node3" href="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f" title="Call Get method of Rest API&#39;s &#160;C# Example:" alt="" coords="484,29,687,56"/>
+</map>

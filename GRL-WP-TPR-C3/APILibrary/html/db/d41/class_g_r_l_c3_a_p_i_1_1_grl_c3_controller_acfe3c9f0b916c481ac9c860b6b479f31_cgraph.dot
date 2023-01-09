@@ -1,0 +1,14 @@
+digraph "GRLC3API.GrlC3Controller.DisableDigitalPing"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [label="GRLC3API.GrlC3Controller.\lDisableDigitalPing",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="DisableDigitalPing to disable the controller from Digial ping mode and proceed to further on the stat..."];
+  Node1 -> Node2 [color="steelblue1",style="solid"];
+  Node2 [label="GRLC3API.GrlC3Controller.\lGetControllerConnectionStatus",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a590385743fddaa84ee6670564d802cf3",tooltip="Use this GetControllerConnectionStatus function to check Controller is connected or not  C# Example:"];
+  Node2 -> Node3 [color="steelblue1",style="solid"];
+  Node3 [label="GRLC3API.GrlC3Controller.Get",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d41/class_g_r_l_c3_a_p_i_1_1_grl_c3_controller.html#a4c6dc6ce4ea37ac94789cebbcb46c39f",tooltip="Call Get method of Rest API's  C# Example:"];
+  Node3 -> Node3 [color="steelblue1",style="solid"];
+}
